@@ -1,4 +1,4 @@
-
+![Header](./banner-Luigi.png)
 # 💫 About Me:
 
 🎓 I'm currently finishing high school and preparing to start my career in the tech field.  
