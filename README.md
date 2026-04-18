@@ -1,5 +1,5 @@
+
 # 💫 About Me:
-## Hi, I'm Luigi!
 
 🎓 I'm currently finishing high school and preparing to start my career in the tech field.  
 💻 My main focus is on **Back-end development**, and I'm currently studying **Python** and **JavaScript**.  
