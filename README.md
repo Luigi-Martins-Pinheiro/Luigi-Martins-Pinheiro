@@ -1,9 +1,10 @@
 ![Header](./banner-Luigi.png)
 # 💫 About Me:
 
-🎓 I'm currently finishing high school and preparing to start my career in the tech field.  
-💻 My main focus is on **Back-end development**, and I'm currently studying **Python** and **JavaScript**.  
-🚀 I'm always looking to **learn new technologies**, build interesting projects, and **collaborate** with others — especially in Python automation.
+🎓 Currently pursuing a degree in **Software Engineering** at **USF** (Universidade São Francisco).<br>
+📊 Focused on a career as a **Data Analyst**, developing skills in data analysis, visualization, and decision support.<br>
+💻 Experienced with **Python**, **PostgreSQ**L, and **Power BI** for data manipulation, querying, and dashboard creation.<br>
+🚀 Passionate about transforming data into insights, optimizing processes, and supporting data-driven decisions through practical projects and continuous learning.
 
 
 ## 🌐 Socials:
@@ -16,12 +17,12 @@
 ![](https://streak-stats.demolab.com/?user=Luigi-Martins-Pinheiro&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Luigi-Martins-Pinheiro&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+<!---
 [![](https://komarev.com/ghpvc/?username=Luigi-Martins-Pinheiro&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-</div>
+<!--</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=Luigi-Martins-Pinheiro&icon=0&color=0)](https://visitcount.itsvg.in)
 
